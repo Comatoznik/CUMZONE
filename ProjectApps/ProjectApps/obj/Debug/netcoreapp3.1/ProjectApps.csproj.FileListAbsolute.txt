@@ -1,0 +1,13 @@
+C:\Users\Comatoznik\source\repos\ProjectApps\ProjectApps\bin\Debug\netcoreapp3.1\ProjectApps.exe
+C:\Users\Comatoznik\source\repos\ProjectApps\ProjectApps\bin\Debug\netcoreapp3.1\ProjectApps.deps.json
+C:\Users\Comatoznik\source\repos\ProjectApps\ProjectApps\bin\Debug\netcoreapp3.1\ProjectApps.runtimeconfig.json
+C:\Users\Comatoznik\source\repos\ProjectApps\ProjectApps\bin\Debug\netcoreapp3.1\ProjectApps.runtimeconfig.dev.json
+C:\Users\Comatoznik\source\repos\ProjectApps\ProjectApps\bin\Debug\netcoreapp3.1\ProjectApps.dll
+C:\Users\Comatoznik\source\repos\ProjectApps\ProjectApps\bin\Debug\netcoreapp3.1\ProjectApps.pdb
+C:\Users\Comatoznik\source\repos\ProjectApps\ProjectApps\obj\Debug\netcoreapp3.1\ProjectApps.csprojAssemblyReference.cache
+C:\Users\Comatoznik\source\repos\ProjectApps\ProjectApps\obj\Debug\netcoreapp3.1\ProjectApps.AssemblyInfoInputs.cache
+C:\Users\Comatoznik\source\repos\ProjectApps\ProjectApps\obj\Debug\netcoreapp3.1\ProjectApps.AssemblyInfo.cs
+C:\Users\Comatoznik\source\repos\ProjectApps\ProjectApps\obj\Debug\netcoreapp3.1\ProjectApps.csproj.CoreCompileInputs.cache
+C:\Users\Comatoznik\source\repos\ProjectApps\ProjectApps\obj\Debug\netcoreapp3.1\ProjectApps.dll
+C:\Users\Comatoznik\source\repos\ProjectApps\ProjectApps\obj\Debug\netcoreapp3.1\ProjectApps.pdb
+C:\Users\Comatoznik\source\repos\ProjectApps\ProjectApps\obj\Debug\netcoreapp3.1\ProjectApps.genruntimeconfig.cache
